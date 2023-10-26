@@ -1,7 +1,7 @@
 ### Hey there! I'm Omar, thanks for visiting my profile!👋
 - 😄 4th Year Software Eng Student!
 - 🔭 I’m currently working on multiple university projects!
-- 🌱 Eager to learn!
+- 🌱 Eager to learn more!
 - 💬 Check out my Repos and let me know what you think!
 <!--
 **omarkhater1/omarkhater1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
