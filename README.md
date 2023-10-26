@@ -1,4 +1,4 @@
-### Hi there! I'm Omar, nice to meet you!👋
+### Hey there! I'm Omar, thanks for visiting my profile!👋
 - 😄 4th Year Software Eng Student!
 - 🔭 I’m currently working on multiple university projects!
 - 🌱 Eager to learn!
